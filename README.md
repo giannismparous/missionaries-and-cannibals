@@ -23,7 +23,7 @@ Compile the java files in the src folder and execute the Main file. Or just drag
 ## Execution parameters
 
 - N = Number of missionaries and cannibals each, meaning N cannibals & N missionaries 
- -M = Number of people that can be on the boat at once
+- M = Number of people that can be on the boat at once
 - K = Number of transfers the algorithm can make, if exceeded the algorithm stops
 
 ## Execution examples & outcomes
